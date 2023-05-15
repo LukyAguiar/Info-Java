@@ -17,6 +17,7 @@ public class OperacoesBasicas {
         System.out.println("Com quebra de linha ao final:");
         System.out.println("System.out.println('Bom dia!');");
         System.out.println("--------------------------------");
+        System.out.println();
         System.out.println("Para escrever o conteúdo de uma variável de algum tipo básico");
         System.out.println("Suponha que uma variável tipo int decladara e iniciada:");
         int y = 32;
