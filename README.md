@@ -1,2 +1,2 @@
 # Info-Java
-- Informações sobre a Linaguagem Java do Basico ao Avançado
+- Informações sobre a Linguagem Java do Basico ao Avançado
