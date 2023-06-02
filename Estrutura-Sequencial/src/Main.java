@@ -7,5 +7,6 @@ public class Main {
         
         System.out.println("Info Java!");
         OperacoesBasicas.saidaDeDados();
+        OperacoesBasicas.exemplosProcessamentoDeDados();
     }
 }
